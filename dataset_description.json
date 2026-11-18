@@ -4,8 +4,10 @@
     "DatasetType": "raw",
     "Authors": [
         "Julie Bonnaire",
-	"Corentin Bel",
+        "Corentin Bel",
         "Jean-Remi King",
         "Christophe Pallier"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009126.v1.0.0",
+    "License": "CC0"
 }
