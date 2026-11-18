@@ -1,0 +1,11 @@
+{
+    "Name": "LittlePrince_MEG_French_Distraction_2026",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Julie Bonnaire",
+	"Corentin Bel",
+        "Jean-Remi King",
+        "Christophe Pallier"
+    ]
+}
